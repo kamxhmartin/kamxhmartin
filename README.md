@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Kal (they/she)
+- 👀 I’m interested in security, humanity, and writing nice code for the future.
+- 🌱 I’m currently learning Python, Ruby, and anything else I can get my hands on. 
+- 📫 How to reach me kal.keckler@gmail.com
